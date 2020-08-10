@@ -1,0 +1,26 @@
+<div class="def-list">
+<section class="def-pbk">
+<header class="luna-data-header">
+<span class="dbox-pg"><span><span class="oneClick-link oneClick-available">adjective</span></span></span><span>, <span class="oneClick-link">Also,</span> </span><span class="dbox-bold" data-syllable="ther·a·peu·ti·cal"><span><span class="oneClick-link oneClick-available">therapeutical</span> </span></span> </header>
+<div class="def-set">
+<span class="def-number"><span><span class="oneClick-link">1.</span> </span></span>
+<div class="def-content"><span><span class="oneClick-link">of</span> <span class="oneClick-link">or</span> <span class="oneClick-link oneClick-available">relating</span> <span class="oneClick-link">to</span> <span class="oneClick-link">the</span> <span class="oneClick-link oneClick-available">treating</span> <span class="oneClick-link">or</span> <span class="oneClick-link oneClick-available">curing</span> <span class="oneClick-link">of</span> <span class="oneClick-link">disease;</span> <span class="oneClick-link">curative.</span> </span></div>
+</div>
+</section>
+<section class="def-pbk">
+<header class="luna-data-header">
+<span class="dbox-pg"><span><span class="oneClick-link">noun</span> </span></span> </header>
+<div class="def-set">
+<span class="def-number"><span><span class="oneClick-link">2.</span> </span></span>
+<div class="def-content"><span><span class="oneClick-link">a</span> <span class="oneClick-link">therapeutic</span> <span class="oneClick-link">substance.</span> </span></div>
+</div>
+</section>
+</div>
+
+geniko : def-list
+	kathe definition exei ena diko tou section class : def-pbk 
+		i epikefalida einai header class : luna-data-header
+			oi lekseis tis epikefalidas anoigoun se ena span i kathe mia
+		i analisi tis leksis eiani s ena class : def-set
+			oi lekseis mpainoun s ena class : def-content
+				kathe leksi exei ena diko tis span
